@@ -10,4 +10,4 @@ Progetto universitario Magistrale, contenente codice sorgente in Python, present
 #
 #
 
-if you use it please add a Star ! <3
+if you use it please add a Star! <3
